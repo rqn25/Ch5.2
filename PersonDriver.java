@@ -1,5 +1,5 @@
 
-public class PersonDriverx {
+public class PersonDriver {
 
 	public static void main(String[] args) {
 		Person robert = new Person();
